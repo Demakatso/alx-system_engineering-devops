@@ -48,6 +48,6 @@ frontend devnderitu.tech-https-frontend
 
 backend nderitu-backend
         balance roundrobin
-        server 126641-web-01 54.162.0.15:80 check
-        server 126641-web-02 54.237.104.124:80 check
+        server 126641-web-01 54.90.57.1 check
+        server 126641-web-02 52.23.245.8 check
 #--devnderitu.tech-params-end--
